@@ -1,0 +1,13 @@
+# 모델·데이터 파일 (대용량)
+models/
+data/
+
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+.DS_Store
+*.keystore
